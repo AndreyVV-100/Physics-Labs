@@ -4,4 +4,4 @@
 *.fdb_latexmk
 *.gz
 *.mp4
-
+.ipynb_checkpoints
