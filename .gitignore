@@ -5,6 +5,7 @@
 *.gz
 *.mp4
 .ipynb_checkpoints
+*.out
 
 # Да, я их скатал:
 2.3.1
